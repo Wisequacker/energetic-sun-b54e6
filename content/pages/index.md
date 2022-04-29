@@ -19,7 +19,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: inset
-    title: Welcome to my data portfolio
+    title: Welcome to my data portfolio website
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button
