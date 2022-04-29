@@ -18,7 +18,6 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
-    backgroundSize: full
     title: Welcome to my data portfolio website
     subtitle: Dedicated. Strategic. Mindful
     actions:
