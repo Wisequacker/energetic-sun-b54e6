@@ -60,7 +60,7 @@ sections:
       never expected to see.”
 
 
-    name: Isabelle Parks
+    name: John Tukey
     title: Head chef at Parks
     styles:
       self:
