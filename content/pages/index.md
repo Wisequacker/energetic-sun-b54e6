@@ -81,7 +81,7 @@ sections:
   - elementId: ''
     colors: colors-c
     variant: variant-a
-    title: Projects
+    title: Recent Projects
     actions:
       - type: Link
         label: View all Projects
