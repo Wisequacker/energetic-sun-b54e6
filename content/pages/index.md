@@ -45,6 +45,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
+        borderColor: border-primary
       title:
         textAlign: left
       subtitle:
