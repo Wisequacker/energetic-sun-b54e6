@@ -61,7 +61,7 @@ sections:
 
 
     name: John Tukey
-    title: Head chef at Parks
+    title: American mathematical statistician
     styles:
       self:
         height: auto
