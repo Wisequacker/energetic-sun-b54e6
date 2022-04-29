@@ -16,47 +16,6 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: HeroSection
-    elementId: homepage-hero-1
-    colors: colors-d
-    title: Welcome to my data portfolio website
-    subtitle: Dedicated. Strategic. Mindful
-    actions:
-      - type: Button
-        label: Projects
-        url: 'https://www.stackbit.com/'
-        style: primary
-        iconPosition: right
-        icon: arrowRight
-        showIcon: true
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/hero.webp
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 85
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-20
-          - pb-96
-          - pr-12
-          - pl-12
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    backgroundSize: full
-  - type: HeroSection
     colors: colors-d
     elementId: ''
     backgroundSize: full
