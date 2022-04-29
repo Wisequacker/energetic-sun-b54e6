@@ -20,7 +20,7 @@ sections:
     colors: colors-d
     backgroundSize: inset
     title: Welcome to my data portfolio website
-    subtitle: Dedicated. Strategic. Mindful.
+    subtitle: Dedicated. Strategic. M
     actions:
       - type: Button
         label: Get Started
