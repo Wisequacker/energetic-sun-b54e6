@@ -16,7 +16,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: HeroSection
-    colors: colors-a
+    colors: colors-b
     elementId: ''
     backgroundSize: full
     title: Welcome to my digital portfolio site!
