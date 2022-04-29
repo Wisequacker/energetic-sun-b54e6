@@ -23,7 +23,7 @@ sections:
     subtitle: Dedicated. Strategic. Mindful
     actions:
       - type: Button
-        label: Get Started
+        label: Projects
         url: 'https://www.stackbit.com/'
         style: primary
         iconPosition: right
