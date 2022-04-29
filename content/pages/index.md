@@ -55,9 +55,11 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-d
-    quote: >-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: >+
+      “The greatest value of a picture is when it forces us to notice what we
+      never expected to see.”
+
+
     name: Isabelle Parks
     title: Head chef at Parks
     styles:
