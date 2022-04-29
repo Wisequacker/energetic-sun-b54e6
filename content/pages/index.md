@@ -20,7 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Welcome to my digital portfolio site!
-    subtitle: Fresh. Better. Faster.
+    subtitle: Dedicated. Stratetgic. Faster.
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
     actions:
       - type: Button
