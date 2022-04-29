@@ -84,7 +84,7 @@ sections:
     title: Recent Projects
     actions:
       - type: Link
-        label: View all Projects
+        label: View All Projects
         url: /blog
         showIcon: true
         icon: arrowRight
