@@ -19,7 +19,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Welcome to my digital portfolio site
+    title: Welcome to my digital portfolio site!
     subtitle: Fresh. Better. Faster.
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
     actions:
