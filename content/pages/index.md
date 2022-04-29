@@ -84,7 +84,7 @@ sections:
     title: Projects
     actions:
       - type: Link
-        label: See all adventures
+        label: View all Projects
         url: /blog
         showIcon: true
         icon: arrowRight
