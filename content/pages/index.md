@@ -81,7 +81,7 @@ sections:
   - elementId: ''
     colors: colors-c
     variant: variant-a
-    title: Seasonal adventures
+    title: Projects
     actions:
       - type: Link
         label: See all adventures
