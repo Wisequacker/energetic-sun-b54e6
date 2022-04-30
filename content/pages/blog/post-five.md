@@ -1,5 +1,5 @@
 ---
-title: Investigatinmall HR Database
+title: InvestigatiTeamall HR Database
 layout: PostLayout
 date: '2021-12-02'
 author: content/data/team/hugh-saturation.json
