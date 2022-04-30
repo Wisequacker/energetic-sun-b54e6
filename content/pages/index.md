@@ -62,7 +62,7 @@ sections:
 
 
     name: John Tukey
-    title: American mathematical statistician
+    title: American Mathematical Statistician
     styles:
       self:
         height: auto
