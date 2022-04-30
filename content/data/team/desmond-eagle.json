@@ -1,7 +1,6 @@
 {
     "type": "Person",
     "firstName": "Danny Chen",
-    "lastName": "Eagle",
     "role": "Co-founder",
     "image": {
         "type": "ImageBlock",
