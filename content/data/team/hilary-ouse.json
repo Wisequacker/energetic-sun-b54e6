@@ -1,6 +1,5 @@
 {
     "type": "Person",
-    "firstName": "Hilary",
     "role": "Head fisherman",
     "image": {
         "type": "ImageBlock",
