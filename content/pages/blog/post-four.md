@@ -1,7 +1,7 @@
 ---
 title: 'MCU: Avengers Character Network Analysis'
 layout: PostLayout
-date: '2022-02-02'
+date: '2022-02-21'
 colors: colors-c
 author: content/data/team/hilary-ouse.json
 excerpt: >-
