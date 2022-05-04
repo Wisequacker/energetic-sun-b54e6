@@ -39,7 +39,7 @@ sections:
         altText: github
         url: 'https://github.com/Wisequacker'
         showIcon: true
-        icon: arrowRight
+        icon: github
         iconPosition: right
         elementId: ''
       - type: Link
