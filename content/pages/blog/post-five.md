@@ -43,7 +43,7 @@ bottomSections:
       actions:
         justifyContent: center
     type: RecentPostsSection
-    showReadMoreLink: false
+    showReadMoreLink: true
     readMoreLinkLabel: Read more
   - type: DividerSection
     colors: colors-d
