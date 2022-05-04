@@ -26,7 +26,7 @@ sections:
         label: View Projects
         showIcon: true
         icon: arrowRight
-        style: primary
+        style: ''
         url: /
       - type: Button
         altText: linkedin
