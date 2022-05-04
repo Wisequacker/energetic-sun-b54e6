@@ -131,7 +131,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Seasonal adventure
+    title: Recent Projects
     subtitle: ''
     posts:
       - content/pages/blog/post-five.md
