@@ -80,7 +80,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact us",
+                "label": "Contact me",
                 "url": "mailto:info@lorem.mail",
                 "altText": ""
             }
