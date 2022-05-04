@@ -54,7 +54,7 @@ sections:
       we thought we should highlight her.”
     backgroundImage:
       type: BackgroundImage
-      url: /images/bg.webp
+      url: /images/chris-liverani-dBI_My696Rk-unsplash.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
