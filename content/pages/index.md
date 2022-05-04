@@ -34,7 +34,7 @@ sections:
         showIcon: true
         icon: linkedin
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
     media:
       type: ImageBlock
