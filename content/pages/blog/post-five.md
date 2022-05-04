@@ -45,6 +45,15 @@ bottomSections:
     type: RecentPostsSection
     showReadMoreLink: true
     readMoreLinkLabel: Read more
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
   - type: DividerSection
     colors: colors-d
     styles:
