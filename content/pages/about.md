@@ -19,13 +19,18 @@ sections:
     colors: colors-d
     variant: variant-a
     title: About me
-    text: >-
-      For us fishing is a life style. The connection to the waters is what makes
-      us friends, and what makes us a family and it what makes us a business.
+    text: >+
+      I am a data-driven nerd that hopes to break into both data analyst and
+      data consulting. Currently a graduating senior who hopes to gain more
+      experiences in various fields/industries in the coming future. I have a
+      Bachelor of Science in Economics and I've grown interested in coding and
+      machine learning as well.
 
 
-      We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
+      I firmly believe that data has the power to tell epic stories and provide
+      insight to better our individuals' lives and shape the future of
+      tomorrow's society. 
+
     styles:
       self:
         height: auto
