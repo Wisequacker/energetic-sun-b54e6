@@ -98,15 +98,6 @@
             },
             {
                 "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "/",
-                "icon": "facebook",
-                "style": "link",
-                "elementId": ""
-            },
-            {
-                "type": "Social",
                 "label": "LinkedIn",
                 "altText": "",
                 "url": "https://www.linkedin.com/in/dchen564/",
