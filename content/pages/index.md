@@ -36,7 +36,7 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        altText: ''
+        altText: github
         url: /
         showIcon: false
         icon: arrowRight
