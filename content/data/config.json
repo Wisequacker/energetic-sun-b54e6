@@ -107,13 +107,6 @@
             },
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "/",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "label": "LinkedIn",
                 "altText": "",
                 "url": "https://www.linkedin.com/in/dchen564/",
