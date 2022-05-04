@@ -106,7 +106,7 @@ sections:
     showAuthor: false
     showExcerpt: true
     showReadMoreLink: true
-    readMoreLinkLabel: Join more
+    readMoreLinkLabel: Read more
     variant: variant-a
     actions:
       - type: Link
