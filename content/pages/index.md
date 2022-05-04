@@ -29,7 +29,6 @@ sections:
         style: primary
         url: /
       - type: Button
-        label: Learn more
         altText: ''
         url: 'https://www.linkedin.com/in/dchen564/'
         showIcon: true
