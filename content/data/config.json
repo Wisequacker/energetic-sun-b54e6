@@ -111,6 +111,15 @@
                 "label": "Twitter",
                 "url": "/",
                 "icon": "twitter"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "style": "link",
+                "elementId": ""
             }
         ],
         "legalLinks": [
