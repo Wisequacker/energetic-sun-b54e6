@@ -28,14 +28,6 @@ sections:
         icon: arrowRight
         style: primary
         url: /
-      - type: Button
-        altText: linkedin
-        url: 'https://www.linkedin.com/in/dchen564/'
-        showIcon: true
-        icon: linkedin
-        iconPosition: left
-        style: secondary
-        elementId: ''
       - type: Link
         label: Learn more
         altText: ''
