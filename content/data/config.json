@@ -89,7 +89,7 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "label": "Facebook",
+                "label": "Github",
                 "altText": "",
                 "url": "/",
                 "icon": "github",
