@@ -31,7 +31,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: /
+        url: 'https://www.linkedin.com/in/dchen564/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
