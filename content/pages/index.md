@@ -28,6 +28,15 @@ sections:
         icon: arrowRight
         style: primary
         url: /
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/hero-2.png
