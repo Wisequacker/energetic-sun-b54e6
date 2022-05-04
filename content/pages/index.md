@@ -100,7 +100,7 @@ sections:
       title:
         textAlign: center
   - type: FeaturedPostsSection
-    colors: colors-d
+    colors: colors-c
     elementId: ''
     showDate: true
     showAuthor: false
