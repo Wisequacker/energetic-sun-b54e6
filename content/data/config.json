@@ -33,7 +33,7 @@
                 "type": "Button",
                 "label": "Contact me",
                 "url": "mailto:info@lorem.mail",
-                "altText": "Contact us",
+                "altText": "Contact me",
                 "style": "secondary",
                 "showIcon": true,
                 "icon": "arrowRight",
