@@ -24,7 +24,7 @@ bottomSections:
     title: Read more
     showDate: true
     showAuthor: false
-    showExcerpt: false
+    showExcerpt: true
     recentCount: 3
     styles:
       self:
