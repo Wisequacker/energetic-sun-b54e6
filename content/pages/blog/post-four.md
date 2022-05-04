@@ -5,8 +5,8 @@ date: '2022-02-21'
 colors: colors-c
 author: content/data/team/hilary-ouse.json
 excerpt: >-
-  We’re local, seasonal fisherman, supporting fishing restrictions. We fish what
-  the sea has to offer, nothing more, and no cheating.
+  Exploration of the vast character relationships within the Avengers utilizing
+  machine learning.
 featuredImage:
   type: ImageBlock
   url: /images/post-3.jpg
