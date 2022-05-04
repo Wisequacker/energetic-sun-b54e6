@@ -33,7 +33,7 @@ sections:
         url: 'https://www.linkedin.com/in/dchen564/'
         showIcon: true
         icon: linkedin
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
     media:
