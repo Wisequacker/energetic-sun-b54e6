@@ -29,7 +29,7 @@ sections:
         style: primary
         url: /
       - type: Button
-        altText: ''
+        altText: linkedIn
         url: 'https://www.linkedin.com/in/dchen564/'
         showIcon: true
         icon: linkedin
