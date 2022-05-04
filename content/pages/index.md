@@ -31,7 +31,7 @@ sections:
       - type: Button
         altText: linkedin
         url: 'https://www.linkedin.com/in/dchen564/'
-        showIcon: true
+        showIcon: false
         icon: linkedin
         iconPosition: left
         style: secondary
