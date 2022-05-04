@@ -137,6 +137,7 @@ sections:
       - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-two.md
+      - content/pages/blog/sql-analysis-sql-database.md
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
