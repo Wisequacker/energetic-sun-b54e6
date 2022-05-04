@@ -32,7 +32,7 @@ sections:
         label: Learn more
         altText: ''
         url: 'https://www.linkedin.com/in/dchen564/'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
