@@ -50,7 +50,7 @@
     "dark": "#171717",
     "onDark": "#F2F5FF",
     "primary": "#004BA8",
-    "onPrimary": "#ffffff",
+    "onPrimary": "#F2F5FF",
     "secondary": "#C5D8D9",
     "onSecondary": "#215462",
     "complementary": "#EDEDED",
