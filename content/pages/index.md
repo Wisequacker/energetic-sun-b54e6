@@ -33,7 +33,7 @@ sections:
         altText: ''
         url: 'https://www.linkedin.com/in/dchen564/'
         showIcon: true
-        icon: arrowRight
+        icon: linkedin
         iconPosition: right
         elementId: ''
     media:
