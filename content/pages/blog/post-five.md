@@ -3,9 +3,7 @@ title: Investigating Small HR Database
 layout: PostLayout
 date: '2021-02-19'
 author: content/data/team/hugh-saturation.json
-excerpt: >-
-  Knowing how to feed yourself in the wild is one of the greatest skills you
-  could ever have.
+excerpt: Diving into a mini-project looking into a small HR database from a company.
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
