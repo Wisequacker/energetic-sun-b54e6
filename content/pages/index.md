@@ -109,8 +109,7 @@ sections:
         url: /blog
         showIcon: true
         icon: arrowRight
-    posts:
-      - content/pages/blog/post-four.md
+    posts: []
     styles:
       self:
         height: auto
