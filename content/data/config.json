@@ -32,7 +32,7 @@
             {
                 "type": "Button",
                 "label": "Contact me",
-                "url": "mailto:info@lorem.mail",
+                "url": "mailto:dchen564@gmail.com",
                 "altText": "Contact me",
                 "style": "secondary",
                 "showIcon": true,
