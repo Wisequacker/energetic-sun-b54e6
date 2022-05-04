@@ -43,7 +43,7 @@ sections:
         iconPosition: right
         elementId: ''
       - type: Link
-        altText: ''
+        altText: twitter
         url: /
         showIcon: false
         icon: arrowRight
