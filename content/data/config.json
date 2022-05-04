@@ -102,13 +102,6 @@
                 "label": "Twitter",
                 "url": "/",
                 "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "Facebook",
-                "label": "Facebook",
-                "url": "/",
-                "icon": "facebook"
             }
         ],
         "legalLinks": [
