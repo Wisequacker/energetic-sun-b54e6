@@ -96,13 +96,6 @@
             },
             {
                 "type": "Social",
-                "altText": "Instagram",
-                "label": "Instagram",
-                "url": "/",
-                "icon": "instagram"
-            },
-            {
-                "type": "Social",
                 "altText": "Facebook",
                 "label": "Facebook",
                 "url": "/",
