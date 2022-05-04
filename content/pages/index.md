@@ -75,7 +75,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: QuoteSection
-    colors: colors-d
+    colors: colors-a
     quote: >+
       “The greatest value of a picture is when it forces us to notice what we
       never expected to see.”
