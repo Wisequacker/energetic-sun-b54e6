@@ -84,7 +84,7 @@ sections:
         fontStyle: normal
         textAlign: left
     type: QuoteSection
-    name: Dan
+    name: Dean Abott
   - elementId: ''
     variant: variant-c
     colors: colors-c
