@@ -84,6 +84,7 @@ sections:
         fontStyle: normal
         textAlign: left
     type: QuoteSection
+    name: Dan
   - elementId: ''
     variant: variant-c
     colors: colors-c
