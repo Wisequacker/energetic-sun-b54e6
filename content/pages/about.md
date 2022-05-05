@@ -49,9 +49,8 @@ sections:
         textAlign: left
   - elementId: ''
     colors: colors-b
-    quote: >-
-      “This is someone else, not from our team, but she also loves fishing, so
-      we thought we should highlight her.”
+    quote: |
+      “No data is clean, but most is useful” -Dean Abott
     backgroundImage:
       type: BackgroundImage
       url: /images/chris-liverani-dBI_My696Rk-unsplash.jpg
