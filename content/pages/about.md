@@ -50,7 +50,7 @@ sections:
   - elementId: ''
     colors: colors-b
     quote: |
-      “No data is clean, but most is useful” -Dean Abott
+      “No data is clean, but most is useful” 
     backgroundImage:
       type: BackgroundImage
       url: /images/chris-liverani-dBI_My696Rk-unsplash.jpg
