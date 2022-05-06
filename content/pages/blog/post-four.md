@@ -9,7 +9,7 @@ excerpt: >-
   machine learning.
 featuredImage:
   type: ImageBlock
-  url: /images/post-3.jpg
+  url: /images/output_26_0.png
   altText: Post Thumbnail Image
 media:
   type: ImageBlock
