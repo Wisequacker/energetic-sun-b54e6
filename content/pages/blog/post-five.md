@@ -3,7 +3,9 @@ title: Investigating Small HR Database
 layout: PostLayout
 date: '2022-02-19'
 author: content/data/team/hugh-saturation.json
-excerpt: Diving into a mini-project looking into a small HR database from a company.
+excerpt: >-
+  Diving into a mini-project looking into a small HR database from a company
+  utilizing SQL transactions.
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
