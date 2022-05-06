@@ -3,9 +3,7 @@ title: Teamfight Tactics Analyzer
 layout: PostLayout
 date: '2020-07-11'
 author: content/data/team/desmond-eagle.json
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: A competitive Teamfight Tactics match data analyzer
 featuredImage:
   type: ImageBlock
   url: /images/post-2.jpg
