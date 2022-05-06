@@ -13,7 +13,7 @@ featuredImage:
   altText: Post Thumbnail Image
 media:
   type: ImageBlock
-  url: /images/post-3.jpg
+  url: /images/output_9_0.png
   altText: Post Image
 bottomSections:
   - elementId: ''
