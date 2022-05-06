@@ -3,7 +3,7 @@ title: About
 layout: PageLayout
 sections:
   - type: DividerSection
-    colors: colors-d
+    colors: colors-e
     styles:
       self:
         width: wide
