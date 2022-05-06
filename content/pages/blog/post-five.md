@@ -8,7 +8,7 @@ excerpt: >-
   utilizing SQL transactions.
 featuredImage:
   type: ImageBlock
-  url: /images/hero.webp
+  url: /images/sebastian-herrmann-O2o1hzDA7iE-unsplash.jpg
   altText: Post Image
 media:
   type: ImageBlock
