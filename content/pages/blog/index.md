@@ -8,7 +8,7 @@ postFeed:
   showExcerpt: false
   showReadMoreLink: true
   readMoreLinkLabel: Read more
-  variant: variant-c
+  variant: variant-d
   colors: colors-d
   styles:
     self:
