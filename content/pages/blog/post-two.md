@@ -8,7 +8,7 @@ excerpt: >-
   composition choices.
 featuredImage:
   type: ImageBlock
-  url: /images/post-2.jpg
+  url: /images/hans-peter-gauster-3y1zF4hIPCg-unsplash.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
