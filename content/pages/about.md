@@ -51,8 +51,6 @@ sections:
     quote: |
       ```
       “No data is clean, but most is useful”
-
-
       ```
 
       \-Dean Abott
