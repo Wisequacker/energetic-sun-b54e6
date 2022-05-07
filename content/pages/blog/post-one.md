@@ -15,36 +15,6 @@ media:
   url: /images/post-1.jpg
   altText: Post Image
 bottomSections:
-  - elementId: ''
-    variant: variant-d
-    colors: colors-d
-    title: Read next
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    recentCount: 3
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-56
-          - pr-4
-          - pl-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    type: RecentPostsSection
   - type: RecentPostsSection
     colors: colors-d
     elementId: ''
