@@ -12,7 +12,7 @@ featuredImage:
   altText: Post thumbnail image
 media:
   type: ImageBlock
-  url: /images/post-1.jpg
+  url: /images/index funds by the growth of a dollar.png
   altText: Post Image
 bottomSections:
   - type: RecentPostsSection
