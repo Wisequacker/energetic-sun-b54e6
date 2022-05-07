@@ -5,7 +5,7 @@ date: '2021-05-28'
 author: content/data/team/dianne-ameter.json
 excerpt: >-
   Report investigating the performance and similarity between 6 Vanguard Mutual
-  funds
+  funds.
 featuredImage:
   type: ImageBlock
   url: /images/markus-winkler-IrRbSND5EUc-unsplash.jpg
