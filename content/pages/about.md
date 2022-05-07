@@ -47,7 +47,7 @@ sections:
       text:
         textAlign: left
   - elementId: ''
-    colors: colors-d
+    colors: colors-a
     quote: |
 
 
