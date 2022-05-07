@@ -6,7 +6,7 @@ author: content/data/team/dianne-ameter.json
 excerpt: Report investigating the performance of
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpg
+  url: /images/markus-winkler-IrRbSND5EUc-unsplash.jpg
   altText: Post thumbnail image
 media:
   type: ImageBlock
