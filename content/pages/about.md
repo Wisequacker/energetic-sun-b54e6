@@ -20,16 +20,16 @@ sections:
     variant: variant-a
     title: About me
     text: >
-      I am a data-driven nerd that hopes to explore more into both data analyst
-      and data consulting. Currently a graduating senior who hopes to gain more
-      experiences in various fields/industries in the coming future. I have a
-      Bachelor of Science in Economics and I've grown interested in coding and
-      machine learning as well.
+      I am a data-driven nerd that hopes to explore and work on projects that
+      involve utilizing data to make informed decisions. Currently a graduating
+      senior who hopes to gain more experiences in various fields/industries in
+      the coming future. I have a Bachelor of Science in Economics and I've
+      grown interested in coding and machine learning as well.
 
 
       I firmly believe that data has the power to tell epic stories and provide
-      insight to better our individuals' lives and shape the future of
-      tomorrow's society.
+      insight to better our individual lives and shape the future of tomorrow's
+      society.
     styles:
       self:
         height: auto
