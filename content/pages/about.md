@@ -48,12 +48,11 @@ sections:
         textAlign: left
   - elementId: ''
     colors: colors-e
-    quote: |
+    quote: |+
       ```
       “No data is clean, but most is useful”
       ```
 
-      \-Dean Abott
     backgroundImage:
       type: BackgroundImage
       url: /images/chris-liverani-dBI_My696Rk-unsplash.jpg
