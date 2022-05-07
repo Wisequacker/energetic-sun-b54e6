@@ -52,13 +52,10 @@ sections:
       ```
       “No data is clean, but most is useful”
 
+
       ```
 
-
-
-
-
-      \-
+      \-Dean Abott
     backgroundImage:
       type: BackgroundImage
       url: /images/chris-liverani-dBI_My696Rk-unsplash.jpg
