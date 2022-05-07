@@ -49,15 +49,16 @@ sections:
   - elementId: ''
     colors: colors-e
     quote: |
-
-
-
-
-
-
-
-
+      ```
       “No data is clean, but most is useful”
+
+      ```
+
+
+
+
+
+      \-
     backgroundImage:
       type: BackgroundImage
       url: /images/chris-liverani-dBI_My696Rk-unsplash.jpg
