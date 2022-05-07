@@ -8,7 +8,7 @@ excerpt: >-
   composition choices.
 featuredImage:
   type: ImageBlock
-  url: /images/hans-peter-gauster-3y1zF4hIPCg-unsplash.jpg
+  url: /images/tft galaxy midset.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
