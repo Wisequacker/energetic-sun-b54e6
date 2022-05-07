@@ -2,7 +2,7 @@
 title: 'MCU: Avengers Character Network Analysis'
 layout: PostLayout
 date: '2022-02-21'
-colors: colors-c
+colors: colors-a
 author: content/data/team/hilary-ouse.json
 excerpt: >-
   Exploration of the vast character relationships within the Avengers utilizing
