@@ -45,6 +45,40 @@ bottomSections:
       actions:
         justifyContent: center
     type: RecentPostsSection
+  - type: RecentPostsSection
+    colors: colors-d
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showReadMoreLink: true
+    readMoreLinkLabel: Read more
+    variant: variant-d
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: Read more
+    subtitle: null
+    recentCount: 3
   - type: DividerSection
     colors: colors-d
     styles:
