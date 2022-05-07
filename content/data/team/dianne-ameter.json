@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "firstName": "Danny",
-    "lastName": "Ameter",
+    "lastName": "Chen",
     "role": "Senior fisherwoman",
     "image": {
         "type": "ImageBlock",
