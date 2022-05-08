@@ -73,10 +73,10 @@ Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex a
 
 Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
 
-
-
-The following project was a fun one to take part of as the leader of the project. 
+The following project was a fun one to take part of as the leader of the project.
 
 Utilizing the Beautiful soup and webscraping
 
 Utilizing the NetworkX package was interesting
+
+Visualization and the general reason on why to do it
