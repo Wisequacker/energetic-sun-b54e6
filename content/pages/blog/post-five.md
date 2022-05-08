@@ -12,7 +12,7 @@ featuredImage:
   altText: Post Image
 media:
   type: ImageBlock
-  url: /images/hero.webp
+  url: /images/campaign-creators-gMsnXqILjp4-unsplash.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
