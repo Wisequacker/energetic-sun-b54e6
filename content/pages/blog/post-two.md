@@ -1,7 +1,6 @@
 ---
 title: Teamfight Tactics Analyzer
 layout: PostLayout
-date: '2020-07-11'
 author: content/data/team/desmond-eagle.json
 excerpt: >-
   A Teamfight Tactics competitive match data analyzer on player's team
