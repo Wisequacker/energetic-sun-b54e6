@@ -60,7 +60,7 @@ media:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
-date: '2020-03-28'
+date: '0002-03-28'
 ---
 Teamfight Tactics (TFT) is a strategic autobattler game under owned by riot games. Autobattler as a game genre has been around since 2019 with the first competitive addition of Dota Autochess, a in game client mod. I loved the idea of crafting a team of units and letting them fight in a simulation battle as you manipulate their positioning to skew the simulation and have a strategic plan. The deployable characters in this game aren’t all equal in strength and their synergies with units of the same class/origin are also not always equally matched throughout the course of a 20-to-40-minute match.
 
