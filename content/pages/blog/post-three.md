@@ -8,6 +8,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   altText: Post Image
+  url: /images/katie-montgomery-Ln1bd3eXATU-unsplash.jpg
 media:
   type: ImageBlock
   url: /images/bg.webp
