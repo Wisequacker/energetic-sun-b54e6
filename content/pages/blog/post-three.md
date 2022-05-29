@@ -2,7 +2,9 @@
 layout: PostLayout
 date: '2022-03-29'
 author: content/data/team/desmond-eagle.json
-excerpt: The data modeling of
+excerpt: >-
+  The data modeling of the Ultimate Guitar website in a relational database
+  utilizing SQL.
 featuredImage:
   type: ImageBlock
   altText: Post Image
