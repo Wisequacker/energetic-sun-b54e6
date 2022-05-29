@@ -64,21 +64,32 @@ bottomSections:
         borderStyle: solid
 addTitleSuffix: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+           	This was the final project for a course I took on computational econometrics. It was roughly a quarter long application project utilized to demonstrate the concepts and techniques taught. Analysis of six vanguard mutual funds helped figure out the general stability and variance/standard deviation between the various assets in question. The interesting metrics that I hoped to answer were the relative growth of the fund in comparison to each other, how similar the funds are, and much more.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+First of all, this project put into perspective the necessary precautions with investments. Investment strategies aren’t cookie cutter and the individuals have different needs. It is important to cater to both risk aversion and the targeted return values of a portfolio. Diversification is a key element in order to help reduce the volatility that comes with uncertainty in the future. I think this puts into perspective the idea of trying to gain in the long term very meaningful because short term losses feel more impactful from a behavioral economics perspective. People have different reference points, but losses below someone’s reference point feel way worse than the equivalent gain of the same magnitude. This is explained from the perspective of loss aversion rather than risk aversion that challenges some of what classical economics has to say about people’s relation to fair gambles.  
 
-> “Fish come in three sizes: small, medium and the one that got away!”
+Overall, each individual has their own risk tolerance and desirability for return goals. This project reinforced the ideas I’ve learned in terms of balanced portfolios based on the ratio of assets for an individual or given the possible trade restrictions with a balance of risk free and/or no risk-free assets.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Main Findings
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+ • Stock tracking mutual funds like vfinx, veurx, veiex, and vpacx tend to have similar time trends overtime. This was seen with the downward trend that was found in those Vanguard funds within the years of both 2015 and 2018.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+ • The other two vanguard funds that track bonds, vbisx and vbltx, exhibited more movements together as there was a noticeable drop that occurred in the year of 2016 when Trump was elected. (Economic Times)
 
-portfolio
+• Stock funds (vfinx, veurx, veiex, and vpacx) were positively correlated with another and the bond funds (vbisx and vbltx) were positively correlated with each other.
 
-getting based statistics
+• The six Vanguard funds seemed to be normally distributed which allowed for GWN model analysis.
 
-utilizing the computational finance packages created for the class
+• Risk and return of some individual funds like vpacx, veurx and veiex were overshadowed because they had higher risk and overall lower returns comparatively to either vfinx or vbltx.
+
+• Global minimum variance portfolio with or without short sale restriction had lower risk than holding any individual asset.
+
+• Global minimum variance portfolio with short sale restrictions had a lower sharpe ratio and overall, more risk than the global minimum variance portfolio able to short sell.     	
+
+
+
+           	After analysis we were able to come up with the distributions, the type of assets these funds were tracking, and the optimal weights for short sell and short sell restricted scenarios for the funds. These samples of graphics are some of the visualizations utilized to come up with such conclusions highlighted in the findings.
+
+Going forward because of my interest in investments I hope to look more into the taxation aspects because it is an important facet as earnings are taxed. I wish to learn more about investments as there are ways to better portfolios and manage uncertainty.
+
 
