@@ -2,9 +2,7 @@
 layout: PostLayout
 date: '2022-03-29'
 author: content/data/team/desmond-eagle.json
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: The data modeling of
 featuredImage:
   type: ImageBlock
   altText: Post Image
