@@ -67,18 +67,31 @@ metaDescription: >-
 socialImage: /images/desmond-eagle.png
 addTitleSuffix: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+The following project was conducted as I was wanting to look at this sample HR database of a small business (database found from: https://www.sqltutorial.org/sql-sample-database/). To perform data analysis, I utilized SQL transactions to help answer pertinent questions from the database to consult the HR of a small business. I’ve grown to appreciate the relational database storage format because it is easy to edit/modify the database as needed and to reduce redundancy due to similar elements found in multiple rows of data in contrast to something like a spreadsheet or csv file. I would like to see more usage of relational databases to maintain information in the future because sometimes working with csv files aren’t that optimal.   
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+           	By examining this HR data provide indicators of the relationships between the small company and their employees. Some points of interest include employee pay, operational locations, and benefits. The end goal of this database exploration was to create a condensed report that would answer relevant questions I had about this company to help better understand its relationship with its employees. This way I could advise and make suggestions to help foster this company’s growth.  
 
-> “Fishing adds years to your life, and life to your years.”
+General findings:
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+·        It’s a small company with only 40 total employees/hires.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+·        The company has operations happening in a total of four countries.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+·        Regional data presented doesn’t included the continent of Australia or Antarctica
 
-SQL utilizing database
+·        Hiring data has information that spans 1987 to 1999.
 
-creating transaction
+·        After July 1994 the company saw the highest frequency of hirings and that month it had the maximum number of hirings in counting.
+
+·        30 total dependents and departments with the most dependents are purchasing and finance w/ six.
+
+·        Majority of employees tend to have a salary lower than the average salary pay for their particular occupation.
+
+·        Average maximum salary of all jobs on the market: $13,210.53
+
+·        Workers are paid below the averages of their respective salaries
+
+A more detailed report with visualizations can be found: https://drive.google.com/file/d/1droIn-avBqmZ3vRLnXugIwl875-Cdz_A/view?usp=sharing
+
+           	Based on the above findings, this company likely imports goods and sells these imported products because of their various roles that revolve around purchasing and selling. Since the business’ market details aren’t explicitly stated, that would be my best guess on the field of interest for this company. Additionally, this company is mostly based in North America (US and Canada) with workers working abroad in Europe. I think based on what I’ve seen I think it’s best to continue to grow their base in the United States before expanding to a more global reach as 1/3 of the hires are from the UK, Canada, and Germany. Furthermore, the data shows that workers are being paid less than typical salaries of such roles. I think this should definitely change as the company continues to grow; however, it is also likely that the company is currently too small and they have other possible benefits for their employees like stock shares or insurance coverage that makes their jobs worthwhile.           	Overall, I feel like this SQL project was rewarding because this analysis allowed for the investigation of a small company to seek valuable information that could hint at the current relationship of its workers and the firm. I would have liked to see more information existing in this database because the data seemed quite limited since there are only 40 employees. Additionally, there is more room to gather relevant HR data for this company. I would like to see more information on the duration of hires since some employees quit/leave the company over time. I think moving forward from this project I would like to work with a larger dataset/database and create meaningful data visualizations and dashboards.
+
