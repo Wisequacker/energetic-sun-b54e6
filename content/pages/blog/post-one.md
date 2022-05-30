@@ -120,6 +120,6 @@ The following are some of the visualizations and calculations done within this p
 
 4.B) Markowitz Bullet/Efficient Frontier of Various Optimal Portfolios w/ and w/o trade constraints
 
-           	After analysis we were able to come up with the distributions, the type of assets these funds were tracking, and the optimal weights for short sell and short sell restricted scenarios for the funds. These samples of graphics are some of the visualizations utilized to come up with such conclusions highlighted in the findings.
+After analysis it was possible to come up with the distributions, the type of assets these funds were tracking, and the optimal weights for short sell and short sell restricted scenarios for the funds. These samples of graphics above are some of the visualizations utilized to come up with such conclusions highlighted in the findings.
 
-Going forward because of my interest in investments I hope to look more into the taxation aspects because it is an important facet as earnings are taxed. I wish to learn more about investments as there are ways to better portfolios and manage uncertainty.
+Going forward because of my interest in investments I hope to look more into the taxation aspects because it is an important facet as earnings are taxed. I wish to learn more about investments as there are ways to better portfolios and manage uncertainty. I feel like this is important both as an individual looking to partake in investments and also helping others make informed decisions about their own portfolios.
