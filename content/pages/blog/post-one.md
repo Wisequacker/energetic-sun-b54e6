@@ -1,5 +1,5 @@
 ---
-title: Index Fund Report
+title: Mutual Fund Report
 layout: PostLayout
 date: '2021-05-28'
 author: content/data/team/dianne-ameter.json
