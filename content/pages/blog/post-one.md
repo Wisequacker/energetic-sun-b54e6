@@ -64,7 +64,7 @@ bottomSections:
         borderStyle: solid
 addTitleSuffix: true
 ---
-           	This was the final project for a course I took on computational econometrics. It was roughly a quarter long application project utilized to demonstrate the concepts and techniques taught. Analysis of six vanguard mutual funds helped figure out the general stability and variance/standard deviation between the various assets in question. The interesting metrics that I hoped to answer were the relative growth of the fund in comparison to each other, how similar the funds are, and much more.
+This was the final project for a course I took on computational econometrics. It was roughly a quarter long application project utilized to demonstrate the concepts and techniques taught. Analysis of six vanguard mutual funds helped figure out the general stability and variance/standard deviation between the various assets in question. The interesting metrics that I hoped to answer were the relative growth of the fund in comparison to each other, how similar the funds are, and much more.
 
 First of all, this project put into perspective the necessary precautions with investments. Investment strategies aren’t cookie cutter and the individuals have different needs. It is important to cater to both risk aversion and the targeted return values of a portfolio. Diversification is a key element in order to help reduce the volatility that comes with uncertainty in the future. I think this puts into perspective the idea of trying to gain in the long term very meaningful because short term losses feel more impactful from a behavioral economics perspective. People have different reference points, but losses below someone’s reference point feel way worse than the equivalent gain of the same magnitude. This is explained from the perspective of loss aversion rather than risk aversion that challenges some of what classical economics has to say about people’s relation to fair gambles.  
 
@@ -84,12 +84,8 @@ Main Findings
 
 • Global minimum variance portfolio with or without short sale restriction had lower risk than holding any individual asset.
 
-• Global minimum variance portfolio with short sale restrictions had a lower sharpe ratio and overall, more risk than the global minimum variance portfolio able to short sell.     	
-
-
+• Global minimum variance portfolio with short sale restrictions had a lower sharpe ratio and overall, more risk than the global minimum variance portfolio able to short sell.    
 
            	After analysis we were able to come up with the distributions, the type of assets these funds were tracking, and the optimal weights for short sell and short sell restricted scenarios for the funds. These samples of graphics are some of the visualizations utilized to come up with such conclusions highlighted in the findings.
 
 Going forward because of my interest in investments I hope to look more into the taxation aspects because it is an important facet as earnings are taxed. I wish to learn more about investments as there are ways to better portfolios and manage uncertainty.
-
-
