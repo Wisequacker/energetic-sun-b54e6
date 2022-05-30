@@ -19,7 +19,7 @@ sections:
     colors: colors-d
     variant: variant-a
     title: About me
-    text: >
+    text: >+
       I am a data-driven nerd that hopes to explore and work on projects that
       involve utilizing data to make informed decisions. Currently a graduating
       senior who hopes to gain more experiences in various fields/industries in
@@ -31,9 +31,11 @@ sections:
       insight to better our individual lives and shape tomorrow's society.
 
 
-
-
       <https://www.linkedin.com/in/dchen564/>
+
+
+      <https://github.com/Wisequacker>
+
     styles:
       self:
         height: auto
