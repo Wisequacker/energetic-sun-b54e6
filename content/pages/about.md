@@ -28,8 +28,12 @@ sections:
 
 
       I firmly believe that data has the power to tell epic stories and provide
-      insight to better our individual lives and shape the future of tomorrow's
-      society.
+      insight to better our individual lives and shape tomorrow's society.
+
+
+
+
+      <https://www.linkedin.com/in/dchen564/>
     styles:
       self:
         height: auto
