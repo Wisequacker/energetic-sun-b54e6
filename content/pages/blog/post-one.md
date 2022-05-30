@@ -86,6 +86,40 @@ Main Findings
 
 • Global minimum variance portfolio with short sale restrictions had a lower sharpe ratio and overall, more risk than the global minimum variance portfolio able to short sell.    
 
+The following are some of the visualizations and calculations done within this project:
+
+![](/images/fundprices.png)
+
+1.A) Fund's prices across time
+
+![](/images/fundreturns.png)
+
+1.B) Fund's Return Across Time
+
+![](/images/covariance%20comparison.png)
+
+2.A) Covariance comparison of the various mutual funds
+
+![](/images/risk%20and%20return%20sharpe%20ratio.png)
+
+2.B) Risk and Returns of Various Funds/Sharpe Ratios of Assets
+
+![](/images/returnsboxnwhisker-fc71221f.png)
+
+2.C) Variability and Spread via Box-And-Whisker Plot of the Funds
+
+![](/images/univariate%20descriptive%20statistics.png)
+
+3.A) Univariate Descriptive Statistics of the Funds including Skewness and Kurtosis of Historical Data
+
+![](/images/gmvNoSS.png)
+
+4.A) Global Minimum Variance Portfolio -- Portfolio with the lowest amount of risk
+
+![](/images/efficientfrontierMarkowitzbullet.png)
+
+4.B) Markowitz Bullet/Efficient Frontier of Various Optimal Portfolios w/ and w/o trade constraints
+
            	After analysis we were able to come up with the distributions, the type of assets these funds were tracking, and the optimal weights for short sell and short sell restricted scenarios for the funds. These samples of graphics are some of the visualizations utilized to come up with such conclusions highlighted in the findings.
 
 Going forward because of my interest in investments I hope to look more into the taxation aspects because it is an important facet as earnings are taxed. I wish to learn more about investments as there are ways to better portfolios and manage uncertainty.
