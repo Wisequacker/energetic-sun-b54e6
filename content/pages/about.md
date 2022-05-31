@@ -20,9 +20,6 @@ sections:
     variant: variant-a
     title: About me
     text: >
-      ![](/images/gasworksparkdanny.png)
-
-
       I am a data-driven nerd that hopes to explore and work on projects that
       involve utilizing data to make informed decisions. Currently a graduating
       senior who hopes to gain more experiences in various fields/industries in
@@ -38,6 +35,9 @@ sections:
 
 
       <https://github.com/Wisequacker>
+
+
+      ![](/images/gasworksparkdanny-6431cedd.png)
     styles:
       self:
         height: auto
