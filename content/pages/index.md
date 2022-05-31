@@ -74,31 +74,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: QuoteSection
-    colors: colors-e
-    quote: >+
-      “The greatest value of a picture is when it forces us to notice what we
-      never expected to see.”
-
-
-    name: John Tukey
-    title: American Mathematical Statistician
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-36
-          - pr-4
-          - pl-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        textAlign: center
-      title:
-        textAlign: center
   - type: FeaturedPostsSection
     colors: colors-c
     elementId: ''
@@ -137,6 +112,31 @@ sections:
       - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-two.md
+  - type: QuoteSection
+    colors: colors-e
+    quote: >+
+      “The greatest value of a picture is when it forces us to notice what we
+      never expected to see.”
+
+
+    name: John Tukey
+    title: American Mathematical Statistician
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-36
+          - pr-4
+          - pl-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        textAlign: center
+      title:
+        textAlign: center
   - type: DividerSection
     colors: colors-d
     styles:
