@@ -50,7 +50,6 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/ravennadanny.png
       altText: Hero image
     backgroundImage: null
     styles:
