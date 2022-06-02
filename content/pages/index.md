@@ -51,6 +51,7 @@ sections:
     media:
       type: ImageBlock
       altText: Hero image
+      url: /images/desmond-eagle.png
     backgroundImage: null
     styles:
       self:
