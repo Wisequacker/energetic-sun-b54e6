@@ -45,16 +45,7 @@ bottomSections:
         justifyContent: center
     type: RecentPostsSection
     readMoreLinkLabel: Read more
-    actions:
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
   - type: DividerSection
     colors: colors-d
     styles:
