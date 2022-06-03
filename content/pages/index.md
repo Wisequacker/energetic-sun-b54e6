@@ -51,7 +51,7 @@ sections:
     media:
       type: ImageBlock
       altText: Hero image
-      url: /images/20210329_232725.jpg
+      url: /images/IMG_20190122_154312_932.jpg
     backgroundImage: null
     styles:
       self:
