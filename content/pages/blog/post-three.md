@@ -62,4 +62,4 @@ bottomSections:
 addTitleSuffix: true
 title: Ultimate Guitar Tab Database Modeling
 ---
-Work in progress come back later
+Work in progress! come back later.
