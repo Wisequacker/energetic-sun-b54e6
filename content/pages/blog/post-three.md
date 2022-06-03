@@ -44,6 +44,7 @@ bottomSections:
       actions:
         justifyContent: center
     type: RecentPostsSection
+    readMoreLinkLabel: Read more
   - type: DividerSection
     colors: colors-d
     styles:
