@@ -21,7 +21,7 @@ bottomSections:
     showDate: true
     showAuthor: false
     showExcerpt: true
-    recentCount: 3
+    recentCount: 4
     styles:
       self:
         height: auto
