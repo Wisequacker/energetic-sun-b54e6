@@ -11,7 +11,7 @@ featuredImage:
   url: /images/katie-montgomery-Ln1bd3eXATU-unsplash.jpg
 media:
   type: ImageBlock
-  url: /images/bg.webp
+  url: /images/42-north--G50vpGzaes-unsplash.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
