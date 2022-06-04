@@ -25,7 +25,7 @@ bottomSections:
     styles:
       self:
         height: 50px
-        width: 100px
+        width: wide
         margin:
           - mt-0
           - mb-0
