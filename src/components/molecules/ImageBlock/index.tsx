@@ -29,7 +29,7 @@ export default function ImageBlock(props) {
                 className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', className)}
                 src={url}
                 alt={altText}
-                style={{ height: "70%", width: "70%", marginLeft: "auto", marginRight: "auto" }}
+                style={{ height: "50%", width: "70%", marginLeft: "auto", marginRight: "auto" }}
                 {...annotations}
             /> : <img
                     id={elementId || null}
