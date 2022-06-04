@@ -31,10 +31,10 @@ sections:
       insight to better our individual lives and shape tomorrow's society.
 
 
-      <https://www.linkedin.com/in/dchen564/>
+      [LinkedIn](https://www.linkedin.com/in/dchen564/)
 
 
-      <https://github.com/Wisequacker>
+      [Github](https://github.com/Wisequacker)
 
 
       ![](/images/gasworksparkdanny-6431cedd.png)
