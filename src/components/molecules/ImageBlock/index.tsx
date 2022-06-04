@@ -14,7 +14,7 @@ export default function ImageBlock(props) {
     }
     console.log(typeof id)
     let match = 'guitar' as string
-    
+    console.log(typeof match)
 
     const annotations = fieldPath
         ? { 'data-sb-field-path': [fieldPath, `${fieldPath}.url#@src`, `${fieldPath}.altText#@alt`, `${fieldPath}.elementId#@id`].join(' ').trim() }
