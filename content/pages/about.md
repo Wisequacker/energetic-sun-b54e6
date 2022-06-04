@@ -74,6 +74,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    title: ' '
   - type: TextSection
     colors: colors-d
     variant: variant-a
