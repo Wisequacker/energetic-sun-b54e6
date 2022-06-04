@@ -5,7 +5,7 @@ import Markdown from 'markdown-to-jsx';
 import { mapStylesToClassNames as mapStyles } from '../../../../utils/map-styles-to-class-names';
 import Action from '../../../atoms/Action';
 import ImageBlock from '../../../molecules/ImageBlock';
-import HeroImageBlock from '../../molecules/heroImageBlock';
+import HeroImageBlock from '../../../molecules/heroImageBlock';
 
 
 export default function FeaturedItem(props) {
