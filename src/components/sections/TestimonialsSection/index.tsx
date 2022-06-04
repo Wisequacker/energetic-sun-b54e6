@@ -5,6 +5,8 @@ import classNames from 'classnames';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import Section from '../Section';
 import ImageBlock from '../../molecules/ImageBlock';
+import HeroImageBlock from '../../molecules/heroImageBlock';
+
 
 export default function TestimonialsSection(props) {
     const { type, elementId, colors, variant, title, subtitle, testimonials, styles = {}, 'data-sb-field-path': fieldPath } = props;
