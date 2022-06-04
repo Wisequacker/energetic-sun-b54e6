@@ -39,7 +39,7 @@ export default function ImageBlock(props) {
             style={{ height: "50%", width: "50%", marginLeft: "auto", marginRight: "auto" }}
             {...annotations}
         />}
-        
+        </div>
         
     );
 }
