@@ -15,6 +15,66 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: HeroSection
+    colors: colors-a
+    elementId: ''
+    backgroundSize: full
+    title: Welcome to my digital portfolio site!
+    subtitle: Dedicated. Strategic. Mindful.
+    text: null
+    actions:
+      - label: View Projects
+        url: /
+        showIcon: true
+        icon: arrowRight
+        style: primary
+        type: Button
+      - altText: linkedin
+        url: 'https://www.linkedin.com/in/dchen564/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: right
+        elementId: ''
+        type: Link
+      - altText: github
+        url: 'https://github.com/Wisequacker'
+        showIcon: true
+        icon: github
+        iconPosition: right
+        elementId: ''
+        type: Link
+      - url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
+    media:
+      url: /images/IMG_20190122_154312_932.jpg
+      altText: Hero image
+      type: ImageBlock
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+        borderColor: border-primary
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: TextSection
     colors: colors-d
     variant: variant-a
