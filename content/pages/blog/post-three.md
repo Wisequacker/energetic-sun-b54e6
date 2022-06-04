@@ -13,8 +13,28 @@ media:
   type: ImageBlock
   url: /images/croppedguitarblog image.jpg
   altText: Post Image
-  height: 100px
-  width: 50%
+  backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+        borderColor: border-primary
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 bottomSections:
   - elementId: ''
     variant: variant-d
