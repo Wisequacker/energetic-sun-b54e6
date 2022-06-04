@@ -13,7 +13,6 @@ media:
   type: ImageBlock
   url: /images/croppedguitarblog image.jpg
   altText: Post Image
-  backgroundImage: null
     styles:
       self:
         height: auto
