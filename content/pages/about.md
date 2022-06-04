@@ -81,34 +81,6 @@ sections:
       actions:
         justifyContent: flex-start
     title: About Me
-  - type: TextSection
-    colors: colors-d
-    variant: variant-a
-    title: About me
-    text: |
-
-
-      [LinkedIn](https://www.linkedin.com/in/dchen564/)
-
-      [Github](https://github.com/Wisequacker)
-
-      ![](/images/gasworksparkdanny-6431cedd.png)
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-32
-          - pb-56
-          - pr-4
-          - pl-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - elementId: ''
     colors: colors-e
     quote: |+
