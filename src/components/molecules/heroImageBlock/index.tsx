@@ -1,7 +1,7 @@
 import * as React from 'react';
 import classNames from 'classnames';
 
-export default function ImageBlock(props) {
+export default function HeroImageBlock(props) {
     const { elementId, className, url, altText = '', 'data-sb-field-path': fieldPath } = props;
     if (!url) {
         return null;
