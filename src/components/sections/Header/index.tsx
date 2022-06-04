@@ -5,7 +5,7 @@ import classNames from 'classnames';
 
 import { Link, Action } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
-import HeroImage
+import HeroImageBlock from '../../molecules/heroImageBlock'
 import CloseIcon from '../../svgs/close';
 import MenuIcon from '../../svgs/menu';
 
