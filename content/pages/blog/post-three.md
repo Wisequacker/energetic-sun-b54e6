@@ -6,6 +6,7 @@ excerpt: >-
   The data modeling of the Ultimate Guitar website in a relational database
   utilizing SQL.
 featuredImage:
+  elementId: 'guitar'
   type: ImageBlock
   altText: Post Image
   url: /images/katie-montgomery-Ln1bd3eXATU-unsplash.jpg
