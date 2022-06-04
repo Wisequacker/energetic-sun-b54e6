@@ -6,7 +6,7 @@ excerpt: >-
   A Teamfight Tactics competitive match data analyzer on player's team
   composition choices.
 featuredImage:
-  elementId: 'guitar'
+  # elementId: 'guitar'
   type: ImageBlock
   url: /images/tft galaxy midset.jpg
   altText: Post Image
