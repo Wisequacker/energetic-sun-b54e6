@@ -12,7 +12,7 @@ export default function ImageBlock(props) {
     if (elementId) {
         id = elementId as string
     }
-    
+    console.log(typeof )
     let match = 'guitar' as string
     
 
