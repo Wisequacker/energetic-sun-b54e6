@@ -13,8 +13,8 @@ media:
   type: ImageBlock
   url: /images/croppedguitarblog image.jpg
   altText: Post Image
-  height:
-  width: 
+  height: 100px
+  width: 100px
 bottomSections:
   - elementId: ''
     variant: variant-d
