@@ -15,7 +15,7 @@ media:
   altText: Post Image
   styles:
     self:
-    height: auto
+      height: auto
       width: wide
      padding:
           - pt-36
