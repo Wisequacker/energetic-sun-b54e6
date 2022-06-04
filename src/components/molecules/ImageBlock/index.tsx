@@ -7,7 +7,7 @@ export default function ImageBlock(props) {
         return null;
     }
 
-    let id = "";
+    let el = "";
 
     if (elementId) {
         id = elementId as string
