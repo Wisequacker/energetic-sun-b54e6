@@ -51,7 +51,7 @@ bottomSections:
     colors: colors-d
     styles:
       self:
-        width: wide
+        width: 100px
         padding:
           - pt-4
           - pb-4
