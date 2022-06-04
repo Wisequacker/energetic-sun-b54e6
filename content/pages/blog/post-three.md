@@ -13,7 +13,7 @@ media:
   type: ImageBlock
   url: /images/42-north--G50vpGzaes-unsplash.jpg
   altText: Post Image
-  width: 
+  width: 175px
 bottomSections:
   - elementId: ''
     variant: variant-d
