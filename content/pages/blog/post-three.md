@@ -23,10 +23,7 @@ media:
           - pb-48
           - pl-4
           - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-        borderColor: border-primary
+
 bottomSections:
   - elementId: ''
     variant: variant-d
