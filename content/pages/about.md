@@ -19,7 +19,6 @@ sections:
     colors: colors-a
     elementId: ''
     backgroundSize: full
-    title: Welcome to my digital portfolio site!
     subtitle: Dedicated. Strategic. Mindful.
     text: null
     actions:
