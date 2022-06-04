@@ -55,7 +55,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/gasworksparkdanny-061f460c.png
+      url: /images/20210329_232725.jpg
       altText: Hero image
       type: ImageBlock
     backgroundImage: null
