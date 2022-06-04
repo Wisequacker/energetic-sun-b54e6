@@ -14,6 +14,7 @@ media:
   type: ImageBlock
   url: /images/campaign-creators-gMsnXqILjp4-unsplash.jpg
   altText: Post Image
+  elementId: guitar
 bottomSections:
   - elementId: ''
     variant: variant-d
