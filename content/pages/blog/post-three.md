@@ -13,7 +13,16 @@ media:
   type: ImageBlock
   url: /images/croppedguitarblog image.jpg
   altText: Post Image
-  
+  backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
 bottomSections:
   - elementId: ''
     variant: variant-d
