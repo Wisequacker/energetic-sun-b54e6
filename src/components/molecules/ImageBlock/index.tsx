@@ -13,6 +13,7 @@ export default function ImageBlock(props) {
         el = elementId as string
         
     }
+    let yeah = el === "guitar"
     // console.log(typeof id)
     let match = 'guitar' as string
     // console.log(typeof match)
