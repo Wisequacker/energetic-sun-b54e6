@@ -10,7 +10,7 @@ export default function ImageBlock(props) {
     let id = "";
 
     if (elementId) {
-
+        id = id + elementId;
     }
 
     const annotations = fieldPath
