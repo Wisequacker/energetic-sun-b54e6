@@ -18,7 +18,7 @@ bottomSections:
     variant: variant-d
     colors: colors-d
     title: Read next
-    showDate: true
+    showDate: false
     showAuthor: false
     showExcerpt: true
     recentCount: 4
