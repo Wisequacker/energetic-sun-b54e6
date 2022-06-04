@@ -23,7 +23,7 @@ export default function ImageBlock(props) {
         : {};
 
     return (
-        {match === el ? <img
+        {yeah ? <img
             id={elementId || null}
             className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', className)}
             src={url}
