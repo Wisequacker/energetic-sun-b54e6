@@ -5,6 +5,8 @@ import Markdown from 'markdown-to-jsx';
 import { mapStylesToClassNames as mapStyles } from '../../../../utils/map-styles-to-class-names';
 import Action from '../../../atoms/Action';
 import ImageBlock from '../../../molecules/ImageBlock';
+import HeroImageBlock from '../../molecules/heroImageBlock';
+
 
 export default function FeaturedItem(props) {
     const { elementId, title, subtitle, text, featuredImage, actions = [], enableHover, styles = {}, 'data-sb-field-path': fieldPath } = props;
