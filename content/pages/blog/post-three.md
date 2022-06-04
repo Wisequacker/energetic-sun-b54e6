@@ -24,7 +24,7 @@ bottomSections:
     recentCount: 4
     styles:
       self:
-        height: auto
+        height: 95px
         width:  175px
         margin:
           - mt-0
