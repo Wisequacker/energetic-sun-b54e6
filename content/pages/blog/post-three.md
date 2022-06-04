@@ -16,7 +16,10 @@ media:
   styles:
     self:
       margin:
-        - mt-
+        - mt-32
+        - mb-24
+        - ml-24
+        - mr-24
 bottomSections:
   - elementId: ''
     variant: variant-d
