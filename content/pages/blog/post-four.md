@@ -15,6 +15,7 @@ media:
   type: ImageBlock
   url: /images/output_26_0.png
   altText: Post Image
+  elementId: guitar
 bottomSections:
   - elementId: ''
     variant: variant-d
