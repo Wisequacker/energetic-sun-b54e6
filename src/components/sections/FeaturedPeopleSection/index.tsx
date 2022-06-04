@@ -6,7 +6,7 @@ import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to
 import Section from '../Section';
 import Action from '../../atoms/Action';
 import ImageBlock from '../../molecules/ImageBlock';
-import HeroImageBlock from '../../molecules/heroImageBlock';
+// import HeroImageBlock from '../../molecules/heroImageBlock';
 
 
 export default function FeaturedPeopleSection(props) {
