@@ -63,7 +63,7 @@ bottomSections:
         borderWidth: 1
         borderStyle: solid
 addTitleSuffix: true
-title: (Work in Progress) Ultimate Guitar Tab Database Modeling
+title: (Work in Progress) lol Ultimate Guitar Tab Database Modeling
 colors: colors-a
 ---
 Work in progress! come back later.
