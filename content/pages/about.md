@@ -19,14 +19,6 @@ sections:
     colors: colors-a
     elementId: ''
     backgroundSize: full
-    subtitle: >-
-      I am a data-driven nerd that hopes to explore and work on projects that
-      involve utilizing data to make informed decisions. Currently a graduating
-      senior who hopes to gain more experiences in various fields/industries in
-      the coming future. I have a Bachelor of Science in Economics and I've
-      grown interested in coding and machine learning as well.I firmly believe
-      that data has the power to tell epic stories and provide insight to better
-      our individual lives and shape tomorrow's society.
     text: null
     actions:
       - label: View Projects
