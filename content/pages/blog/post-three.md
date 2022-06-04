@@ -46,6 +46,7 @@ bottomSections:
     type: RecentPostsSection
     readMoreLinkLabel: Read more
     actions: []
+    showReadMoreLink: true
   - type: DividerSection
     colors: colors-d
     styles:
