@@ -10,7 +10,7 @@ featuredImage:
   altText: Post Image
   url: /images/katie-montgomery-Ln1bd3eXATU-unsplash.jpg
 media:
- 
+ - elementId: ''
   type: ImageBlock
   url: /images/croppedguitarblog image.jpg
   altText: Post Image
