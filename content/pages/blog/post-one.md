@@ -14,6 +14,7 @@ media:
   type: ImageBlock
   url: /images/index funds by the growth of a dollar.png
   altText: Post Image
+  elementId: guitar
 bottomSections:
   - type: RecentPostsSection
     colors: colors-d
