@@ -15,7 +15,8 @@ media:
   altText: Post Image
   styles:
     self:
-      width: 50%
+      margin:
+        mt:
 bottomSections:
   - elementId: ''
     variant: variant-d
