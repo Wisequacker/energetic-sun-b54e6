@@ -4,6 +4,8 @@ import classNames from 'classnames';
 
 import { Social, Action, Link } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
+import HeroImageBlock from '../../molecules/heroImageBlock';
+
 
 export default function Footer(props) {
     const { colors = 'colors-d', styles = {}, annotationPrefix, ...rest } = props;
