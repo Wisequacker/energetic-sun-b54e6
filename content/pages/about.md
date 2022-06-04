@@ -74,7 +74,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: ' '
+    title: About Me
   - type: TextSection
     colors: colors-d
     variant: variant-a
