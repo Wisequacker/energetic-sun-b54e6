@@ -13,8 +13,7 @@ export default function ImageBlock(props) {
         id = elementId as string
     }
 
-    let match =
-        id: 'guitar'
+    let match = 'guitar'
     
 
     const annotations = fieldPath
