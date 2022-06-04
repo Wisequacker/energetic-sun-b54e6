@@ -17,7 +17,7 @@ media:
     self:
       height: auto
       width: wide
-     padding:
+      padding:
           - pt-36
           - pb-48
           - pl-4
