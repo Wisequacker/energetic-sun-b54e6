@@ -16,7 +16,7 @@ media:
   styles:
     self:
       margin:
-        - mt
+        - mt-
 bottomSections:
   - elementId: ''
     variant: variant-d
