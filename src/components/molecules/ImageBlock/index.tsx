@@ -16,7 +16,7 @@ export default function ImageBlock(props) {
             className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', className)}
             src={url}
             alt={altText}
-            style={"width": }
+            style={{}}
             {...annotations}
         />
     );
