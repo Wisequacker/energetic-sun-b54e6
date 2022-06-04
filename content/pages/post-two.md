@@ -6,7 +6,6 @@ excerpt: >-
   A Teamfight Tactics competitive match data analyzer on player's team
   composition choices.
 featuredImage:
-  # elementId: 'guitar'
   type: ImageBlock
   url: /images/tft galaxy midset.jpg
   altText: Post Image
@@ -60,7 +59,7 @@ media:
   url: /images/TFT set3.5.png
   altText: altText of the image
   caption: Caption of the image
-  elementId: ''
+  elementId: guitar
 date: '2020-07-14'
 ---
 Esports have gained popularity with a lot of online games have competitive quirks with multiple players. This project was initiated because as a competitive gamer myself I wanted to hone the in-game strategies of Teamfight Tactics (TFT) (https://teamfighttactics.leagueoflegends.com/en-us/set-overview/teamfight-tactics-galaxies/) in a time efficient manner. Similar to sport strategies, competitive Esport games like TFT have viable strategies that evolve throughout the game’s life. The game is currently saturated by claims made by professional players with little to no data backing such claims.
