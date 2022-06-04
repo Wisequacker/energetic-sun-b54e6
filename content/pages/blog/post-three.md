@@ -25,7 +25,7 @@ bottomSections:
     styles:
       self:
         height: auto
-        width: wide
+        width: auto
         margin:
           - mt-0
           - mb-0
