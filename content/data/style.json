@@ -81,5 +81,7 @@
         "case": "none",
         "letterSpacing": "normal"
     },
-    "guitar"
+    "guitar": {
+        "width"
+    }
 }
