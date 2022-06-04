@@ -24,8 +24,8 @@ bottomSections:
     recentCount: 4
     styles:
       self:
-        height: 95px
-        width: 175px
+        height: 50px
+        width: 100px
         margin:
           - mt-0
           - mb-0
