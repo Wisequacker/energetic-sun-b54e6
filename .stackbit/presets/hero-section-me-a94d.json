@@ -1,0 +1,102 @@
+{
+    "model": "HeroSection",
+    "presets": [
+        {
+            "label": "Me",
+            "thumbnail": "images/hero-section-me-a94d.png",
+            "metadata": {
+                "categories": [
+                    "list preview"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "colors": "colors-a",
+                "elementId": "",
+                "backgroundSize": "full",
+                "title": "Welcome to my digital portfolio site!",
+                "subtitle": "Dedicated. Strategic. Mindful.",
+                "text": null,
+                "actions": [
+                    {
+                        "label": "View Projects",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": null,
+                        "style": "primary",
+                        "elementId": null,
+                        "$$type": "Button"
+                    },
+                    {
+                        "label": null,
+                        "altText": "linkedin",
+                        "url": "https://www.linkedin.com/in/dchen564/",
+                        "showIcon": true,
+                        "icon": "linkedin",
+                        "iconPosition": "right",
+                        "elementId": "",
+                        "$$type": "Link"
+                    },
+                    {
+                        "label": null,
+                        "altText": "github",
+                        "url": "https://github.com/Wisequacker",
+                        "showIcon": true,
+                        "icon": "github",
+                        "iconPosition": "right",
+                        "elementId": "",
+                        "$$type": "Link"
+                    },
+                    {
+                        "label": null,
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": "",
+                        "$$type": "Link"
+                    }
+                ],
+                "media": {
+                    "url": "/images/IMG_20190122_154312_932.jpg",
+                    "altText": "Hero image",
+                    "caption": null,
+                    "elementId": null,
+                    "$$type": "ImageBlock"
+                },
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "padding": [
+                            "pt-36",
+                            "pb-48",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "row-reverse",
+                        "borderColor": "border-primary"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    },
+                    "text": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-start"
+                    }
+                }
+            }
+        }
+    ]
+}
