@@ -7,7 +7,7 @@ export default function ImageBlock(props) {
         return null;
     }
 
-    const getId ()=> {
+    const getId () => {
 
     }
     const annotations = fieldPath
