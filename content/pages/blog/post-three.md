@@ -15,11 +15,11 @@ media:
   altText: Post Image
   styles:
     self:
-      margin:
-        - mt-32
-        - mb-24
-        - ml-24
-        - mr-24
+     padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
 bottomSections:
   - elementId: ''
     variant: variant-d
