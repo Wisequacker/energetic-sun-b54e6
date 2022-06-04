@@ -23,6 +23,7 @@ export default function ImageBlock(props) {
         : {};
 
     return (
+        <div></div>
         {yeah ? <img
             id={elementId || null}
             className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', className)}
