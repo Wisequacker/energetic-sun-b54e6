@@ -7,8 +7,8 @@ export default function ImageBlock(props) {
         return null;
     }
 
-    const getId => {
-        
+    const getId ()=> {
+
     }
     const annotations = fieldPath
         ? { 'data-sb-field-path': [fieldPath, `${fieldPath}.url#@src`, `${fieldPath}.altText#@alt`, `${fieldPath}.elementId#@id`].join(' ').trim() }
