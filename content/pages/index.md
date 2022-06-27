@@ -28,6 +28,7 @@ sections:
         icon: arrowRight
         style: primary
         url: 'https://app.stackbit.com/studio/626b54e618ec0000caff3d7e/#/blog/'
+        altText: View Projects
       - type: Link
         altText: linkedin
         url: 'https://www.linkedin.com/in/dchen564/'
