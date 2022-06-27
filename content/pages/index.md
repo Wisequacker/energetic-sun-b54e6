@@ -27,7 +27,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: 'https://app.stackbit.com/studio/626b54e618ec0000caff3d7e/#/blog/'
+        url: '/https://app.stackbit.com/studio/626b54e618ec0000caff3d7e/#/blog/'
       - type: Link
         altText: linkedin
         url: 'https://www.linkedin.com/in/dchen564/'
