@@ -27,7 +27,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: 'https://energetic-sun-b54e6.stackbit.app/blog/'
+        url: /blog/
         altText: View Projects
       - type: Link
         altText: linkedin
