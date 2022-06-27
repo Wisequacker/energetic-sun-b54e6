@@ -26,7 +26,7 @@ sections:
         label: View Projects
         showIcon: true
         icon: arrowRight
-        style: primary
+        style: secondary
         url: 'https://app.stackbit.com/studio/626b54e618ec0000caff3d7e/#/blog/'
       - type: Link
         altText: linkedin
