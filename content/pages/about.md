@@ -29,7 +29,7 @@ sections:
       our individual lives and shape tomorrow's society.
     actions:
       - label: View Projects
-        url: /blog
+        url: /blog/
         showIcon: true
         icon: arrowRight
         style: primary
