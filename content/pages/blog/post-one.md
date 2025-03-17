@@ -1,7 +1,7 @@
 ---
 title: Mutual Fund Report
 layout: PostLayout
-date: '2021-05-28'
+# date: '2021-05-28'
 author: content/data/team/dianne-ameter.json
 excerpt: >-
   Report investigating the performance and similarity between 6 Vanguard Mutual
@@ -19,7 +19,7 @@ bottomSections:
   - type: RecentPostsSection
     colors: colors-d
     elementId: ''
-    showDate: true
+    showDate: false
     showAuthor: false
     showExcerpt: true
     showReadMoreLink: true

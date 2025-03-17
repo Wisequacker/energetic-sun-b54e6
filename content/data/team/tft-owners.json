@@ -1,0 +1,9 @@
+{
+    "type": "Person",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/hilary-ouse.png",
+        "altText": "Hilary Ouse photo"
+    },
+    "firstName": "Danny Chen & Angel McCrary-Lupson"
+}

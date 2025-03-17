@@ -19,7 +19,7 @@ sections:
     colors: colors-a
     elementId: ''
     backgroundSize: full
-    title: Welcome to my digital portfolio site!
+    title: Hey! I'm Danny and this is my digital project blog.
     subtitle: Dedicated. Strategic. Mindful.
     actions:
       - type: Button

@@ -1,7 +1,7 @@
 ---
 title: Investigating Small HR Database
 layout: PostLayout
-date: '2022-02-19'
+# date: '2022-02-19'
 author: content/data/team/hugh-saturation.json
 excerpt: >-
   Diving into a mini-project looking into a small HR database from a company
@@ -20,7 +20,7 @@ bottomSections:
     variant: variant-d
     colors: colors-d
     title: Read more
-    showDate: true
+    showDate: false
     showAuthor: false
     showExcerpt: true
     recentCount: 3
