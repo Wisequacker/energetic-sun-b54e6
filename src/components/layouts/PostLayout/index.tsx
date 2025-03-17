@@ -28,11 +28,11 @@ export default function PostLayout(props) {
                         <header className="max-w-5xl mx-auto mb-12 text-left">
                             {title && <h1 data-sb-field-path="title">{title}</h1>}
                             <div className="text-lg mt-6">
-                                <span>
+                                {/* <span>
                                     <time dateTime={dateTimeAttr} data-sb-field-path="date">
                                         {formattedDate}
                                     </time>
-                                </span>
+                                </span> */}
                                 <PostAttribution author={author} category={category} />
                             </div>
                         </header>
