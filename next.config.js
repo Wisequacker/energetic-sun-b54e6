@@ -13,7 +13,7 @@ module.exports = withBundleAnalyzer({
         loader: "akamai",
         path: "",
     },
-    assetPrefix: "./",
+    assetPrefix: "/energetic-sun-b54e6/",
     trailingSlash: true,
     devIndicators: {
         autoPrerender: false
