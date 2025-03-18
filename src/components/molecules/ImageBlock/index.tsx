@@ -27,18 +27,18 @@ export default function ImageBlock(props) {
             {yeah ? <img
                 id={elementId || null}
                 className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', className)}
-                src={url}
+                src={"./" + url}
                 alt={altText}
                 style={{ height: "45%", width: "45%", marginLeft: "auto", marginRight: "auto" }}
                 {...annotations}
             /> : <img
-                    id={elementId || null}
-                    className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', className)}
-                    src={url}
-                    alt={altText}
-                    // style={{ height: "50%", width: "50%", marginLeft: "auto", marginRight: "auto" }}
-                    {...annotations}
-                />}
+                id={elementId || null}
+                className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', className)}
+                src={"./" + url}
+                alt={altText}
+                // style={{ height: "50%", width: "50%", marginLeft: "auto", marginRight: "auto" }}
+                {...annotations}
+            />}
         </div>
 
     );
