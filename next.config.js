@@ -7,6 +7,13 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 sourcebit.fetch(sourcebitConfig);
 
 module.exports = withBundleAnalyzer({
+    basePath: "/energetic-sun-b54e6",
+        output: "export",
+    images: {
+        loader: "akamai",
+        path: "",
+    },
+    assetPrefix: "./",
     trailingSlash: true,
     devIndicators: {
         autoPrerender: false
