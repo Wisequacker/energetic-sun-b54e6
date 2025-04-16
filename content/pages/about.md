@@ -20,11 +20,9 @@ sections:
     elementId: ''
     backgroundSize: full
     text: >
-      I am a data-driven nerd that hopes to explore and work on projects that
-      involve utilizing data to make informed decisions. Currently a graduating
-      senior who hopes to gain more experiences in various fields/industries in
-      the coming future. I have a Bachelor of Science in Economics and I've
-      grown interested in coding and machine learning as well.I firmly believe
+      I am a data-driven problem-solver that hopes to explore and work on projects that
+      involve utilizing data to make informed decisions. I have a Bachelor of Science in Economics and I've
+      grown interested in data science. I firmly believe
       that data has the power to tell epic stories and provide insight to better
       our individual lives and shape tomorrow's society.
     actions:
@@ -55,7 +53,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/gasworksparkdanny123.png
+      url: 'https://wisequacker.github.io/energetic-sun-b54e6/images/gasworksparkdanny123.png'
       altText: Hero image
       type: ImageBlock
     backgroundImage: null
@@ -92,7 +90,7 @@ sections:
 
     backgroundImage:
       type: BackgroundImage
-      url: /images/chris-liverani-dBI_My696Rk-unsplash.jpg
+      url: 'https://wisequacker.github.io/energetic-sun-b54e6/images/chris-liverani-dBI_My696Rk-unsplash.jpg'
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
