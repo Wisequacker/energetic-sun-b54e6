@@ -20,7 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     text: >
-      I am a data-driven problem-solver that hopes to explore and work on projects that
+      I am a data-driven problem solver that hopes to explore and work on projects that
       involve utilizing data to make informed decisions. I have a Bachelor of Science in Economics and I've
       grown interested in data science. I firmly believe
       that data has the power to tell epic stories and provide insight to better
